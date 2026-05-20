@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about>
+  <site>Demo Site</site>
+  <purpose>Crawler testing sandbox</purpose>
+  <description>Lightweight static site with linked pages for validating crawler behavior.</description>
+</about>
